@@ -1,0 +1,5 @@
+.env
+*.log
+npc-audio/
+Server/log.txt
+Server/bans.json
